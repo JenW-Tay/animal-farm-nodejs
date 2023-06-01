@@ -39,4 +39,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            ghcr.io/JenW-Tay/animal-farm-nodejs:latest
+            ghcr.io/jenw-tay/animal-farm-nodejs:latest
