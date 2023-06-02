@@ -25,7 +25,7 @@ describe('GET', function(){
     .expect(200, done);
   })
 
-  it('/api responds with animals object', function(done){
+  it('/api responds with animals objects', function(done){
     request
     .get('/api')
     .set('Accept', 'application/json')
